@@ -6,8 +6,12 @@
 
 ### 📫
 
-- [LinkedIn](https://www.linkedin.com/in/rubens-matheus-876834252/)
-- [Email](mailto:rubensmatheus1009@email.com)
+<a href="https://www.linkedin.com/in/rubens-matheus-876834252/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:rubensmatheus1009@email.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <!--
 **mateusback/mateusback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
