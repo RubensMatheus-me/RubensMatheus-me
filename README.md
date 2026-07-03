@@ -7,7 +7,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubensMatheus-me&layout=compact&theme=dark"/>
+  <img height="165em" src="https://ghstats.dev/api/langs?username=RubensMatheus-me&theme=github_dark&layout=compact"/>
 </div>
 
 ---
